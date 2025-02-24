@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://Daydreamer-cjc.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://daydreamer-cjc.github.io/sitemap.xml
